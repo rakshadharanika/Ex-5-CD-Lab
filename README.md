@@ -1,6 +1,8 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Date: 06/05/2025
+### NAME   : V RAKSHA DHARANIKA
+### REG NO : 212223230167
+### DATE   : 06/05/2025
 # Aim:
 To writ/e a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
