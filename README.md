@@ -16,8 +16,8 @@ To writ/e a YACC program to recognize the grammar anb where n>=10.
 8.	Enter a string as input and it is identified as valid or invalid.
 # PROGRAM:
 
-## ex5.l file
-```
+## expr5.l file
+```py
 %{
 /* Definition section */ #include "y.tab.h"
 %}
@@ -35,7 +35,7 @@ int yywrap()
 return 1;
 }
 ```
-## ex5.y file
+## expr5.y file
 ```
 
 
@@ -68,7 +68,8 @@ printf("enter the string\n"); yyparse();
 
 # OUTPUT
 
-![image](https://github.com/user-attachments/assets/eca9adc2-0268-4590-bc64-3abf57e181f6)
+![image](https://github.com/user-attachments/assets/353046be-4237-4d3b-8e74-a40c9baf364b)
+
 
 # RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
